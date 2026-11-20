@@ -6,10 +6,10 @@ from feature_extraction import extract_features
 def load_detector():
 
     checkpoint = torch.load(
-        "model/normal_reference.pt",
-        map_location="cpu",
-        weights_only=True
-    )
+    "../model/normal_reference.pt",
+    map_location="cpu",
+    weights_only=True
+)
 
     normal_reference = checkpoint["normal_reference"]
     threshold = checkpoint["threshold"]

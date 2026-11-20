@@ -203,6 +203,12 @@ streamlit run app.py
 
 The application will open in your browser.
 
+🌐 Live Demo
+Try the deployed application here:
+
+🚀: [Anomaly Detection App](https://industrial-anomaly-detection-dkpsspasndnxrrs7k3xabj.streamlit.app/)
+
+
 ## 📊 Model Evaluation
 
 The proposed anomaly detection system is evaluated using the following metrics:

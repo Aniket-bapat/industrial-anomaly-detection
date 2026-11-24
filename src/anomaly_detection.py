@@ -59,3 +59,5 @@ def predict_image(image_path):
         prediction = "Normal"
 
     return prediction, score, threshold
+
+

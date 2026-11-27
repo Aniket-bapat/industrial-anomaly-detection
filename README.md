@@ -6,9 +6,7 @@ The project uses the **MVTec Anomaly Detection (MVTec AD) dataset**, specificall
 
 ## 🚀 Live Demo
 
-**Try the application:** [Open Live Demo](https://YOUR-LIVE-DEMO-URL-HERE)
-
-> Replace the placeholder with your deployed Streamlit application URL once deployment is complete.
+**Try the application:** 🚀: [Anomaly Detection App](https://industrial-anomaly-detection-dkpsspasndnxrrs7k3xabj.streamlit.app/)
 
 ## 📌 Project Overview
 
@@ -202,12 +200,6 @@ streamlit run app.py
 ```
 
 The application will open in your browser.
-
-🌐 Live Demo
-Try the deployed application here:
-
-🚀: [Anomaly Detection App](https://industrial-anomaly-detection-dkpsspasndnxrrs7k3xabj.streamlit.app/)
-
 
 ## 📊 Model Evaluation
 
